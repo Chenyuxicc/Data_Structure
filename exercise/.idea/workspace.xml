@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2c5a4b-ccfd-497d-9d26-195b1442c47b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arraydoublepointers/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dfs/Solution104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dfs/Solution124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dp/Solution121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dp/Solution122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dp/Solution123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dp/Solution53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/hashmap/Solution128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/linkedlist/Solution148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/linkedlist/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/test/mulThreads/OrderThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/test/mulThreads/lru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/LongestSubSeq128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/TwoNumSum01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,15 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution13.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,19 +73,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/LongestSubSeq128.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/TwoNumSum01.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="120">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -141,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="247">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -195,9 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/Main1.java" />
-        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/Main2.java" />
-        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/Main3.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/Main4.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/pailiezuhe.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/beike/lastyear/Main5.java" />
@@ -246,6 +228,9 @@
         <option value="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution6.java" />
         <option value="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution7.java" />
         <option value="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution8.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java" />
       </list>
     </option>
   </component>
@@ -256,10 +241,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1987" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
+    <option name="x" value="2365" />
+    <option name="y" value="118" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -301,31 +286,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="arraydoublepointers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="arrrayMath" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="StringMath" type="462c0819:PsiDirectoryNode" />
+              <item name="heapsort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3X">
+  <component name="RunManager" selected="Application.Solution215">
     <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.pingduoduo2.Main1" />
       <module name="exercise" />
@@ -418,13 +379,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.pingduoduo2.Main4" />
+    <configuration name="Solution215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.leetcode.heapsort.Solution215" />
       <module name="exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.pingduoduo2.*" />
+          <option name="PATTERN" value="com.chen.leetcode.heapsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,18 +417,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main1 (2)" />
-      <item itemvalue="Application.Main4" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main3X" />
+      <item itemvalue="Application.Solution215" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution215" />
         <item itemvalue="Application.Main3X" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main1 (2)" />
-        <item itemvalue="Application.Main4" />
       </list>
     </recent_temporary>
   </component>
@@ -588,12 +549,12 @@
       <workItem from="1567308683518" duration="2050000" />
       <workItem from="1567321799504" duration="12962000" />
       <workItem from="1567391763162" duration="10599000" />
-      <workItem from="1567414882942" duration="1053000" />
+      <workItem from="1567414882942" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="551097000" />
+    <option name="totallyTimeSpent" value="554024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,7 +569,7 @@
     <frame x="1987" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.26735833" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.26735833" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -617,14 +578,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.13770492" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18241042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3786885" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37213114" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32736155" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4438944" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.64262295" />
       <window_info anchor="bottom" id="Spring" order="12" />
@@ -742,13 +703,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chen/interview/TopK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/Java/Windows/JDK/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chen/interview/LongestSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1065,20 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/LongestSubSeq128.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/TwoNumSum01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -1102,8 +1042,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="247">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
