@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2c5a4b-ccfd-497d-9d26-195b1442c47b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/dangdang/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/didi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/didi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/pingduoduo2/Main3X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/pingduoduo2/Main3X.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-528">
+            <state relative-caret-position="286">
               <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -54,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3X.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="189">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,11 +62,33 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/test/HelloB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/dangdang/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2X.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="1056">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="550">
               <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
@@ -132,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chen/Leetcode/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/chen/Leetcode/Solution20_sumOfRootToLeaf.java" />
         <option value="$PROJECT_DIR$/src/com/chen/Leetcode/Solution21_LongestConsecutive.java" />
         <option value="$PROJECT_DIR$/src/com/chen/Leetcode/Solution22_shortestTransformation.java" />
         <option value="$PROJECT_DIR$/src/com/chen/niukeLeetcode/Solution22_shortestTransformation.java" />
@@ -183,6 +199,8 @@
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3X.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/dangdang/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/test/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -193,10 +211,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="422" />
-    <option name="y" value="207" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,7 +223,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,12 +246,28 @@
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="qiuzhaotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chen" type="462c0819:PsiDirectoryNode" />
+              <item name="qiuzhaotest" type="462c0819:PsiDirectoryNode" />
+              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chen" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,14 +296,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3X">
-    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.pingduoduo2.Main1" />
+  <component name="RunManager" selected="Application.HelloB">
+    <configuration name="HelloB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.test.HelloB" />
       <module name="exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.pingduoduo2.*" />
+          <option name="PATTERN" value="com.chen.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,13 +311,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.pingduoduo2.Main2" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.dangdang.Main1" />
       <module name="exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.pingduoduo2.*" />
+          <option name="PATTERN" value="com.chen.qiuzhaotest.dangdang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,13 +353,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.pingduoduo2.Main4" />
+    <configuration name="SolutionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.test.SolutionTest" />
       <module name="exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.pingduoduo2.*" />
+          <option name="PATTERN" value="com.chen.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main1 (2)" />
-      <item itemvalue="Application.Main4" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main3X" />
+      <item itemvalue="Application.SolutionTest" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.HelloB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloB" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.SolutionTest" />
         <item itemvalue="Application.Main3X" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main1 (2)" />
-        <item itemvalue="Application.Main4" />
       </list>
     </recent_temporary>
   </component>
@@ -489,12 +522,13 @@
       <workItem from="1567134406856" duration="15501000" />
       <workItem from="1567308683518" duration="2050000" />
       <workItem from="1567321799504" duration="12962000" />
-      <workItem from="1567391763162" duration="10599000" />
+      <workItem from="1567391763162" duration="10714000" />
+      <workItem from="1567422300941" duration="3043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="550044000" />
+    <option name="totallyTimeSpent" value="553202000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,7 +542,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.17700455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,14 +551,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.13770492" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3786885" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.26557377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37852496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37213114" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3715221" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4438944" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.64262295" />
       <window_info anchor="bottom" id="Spring" order="12" />
@@ -642,20 +676,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution49.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
@@ -1030,26 +1050,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2X.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
+        <state relative-caret-position="286">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1057,12 +1060,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3X.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main2X.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="1056">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/pingduoduo2/Main3X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/dangdang/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/test/HelloB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
           </folding>
         </state>
       </provider>
