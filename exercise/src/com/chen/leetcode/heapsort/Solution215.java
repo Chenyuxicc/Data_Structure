@@ -46,6 +46,18 @@ public class Solution215 {
         return -1;
     }
     /**
+     * 堆排序，先建堆，再将堆定元素和最后一个元素交换，再继续堆化
+     */
+    private int heapSort1(int[] nums , int n){
+        int count = nums.length;
+        buildHeap(nums,count);
+        for (int i = n-1; i >= 0; i--) {
+            swap(nums,i,0);
+            heapify(nums,i,0);
+        }
+        return -1;
+    }
+    /**
      * 对数组的前n个节点堆化,建堆
      */
     private void buildHeap(int[] tree ,int n){

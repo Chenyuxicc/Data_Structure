@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2c5a4b-ccfd-497d-9d26-195b1442c47b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/LongestSubSeq128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/TwoNumSum01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="190">
               <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="209">
               <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="285">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
@@ -84,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="171">
+              <caret line="47" selection-start-line="47" selection-end-line="58" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="133">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
@@ -120,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="893">
               <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
             </state>
           </provider>
@@ -129,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="627">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
@@ -254,7 +252,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,6 +291,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,12 +547,13 @@
       <workItem from="1567308683518" duration="2050000" />
       <workItem from="1567321799504" duration="12962000" />
       <workItem from="1567391763162" duration="10599000" />
-      <workItem from="1567414882942" duration="3980000" />
+      <workItem from="1567414882942" duration="4030000" />
+      <workItem from="1567476872166" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="554024000" />
+    <option name="totallyTimeSpent" value="555256000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,7 +568,7 @@
     <frame x="1987" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.26735833" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.27214685" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -578,14 +577,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5012225" side_tool="true" weight="0.34266263" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18241042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.45114008" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3786885" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32736155" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.048859935" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4438944" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.64262295" />
       <window_info anchor="bottom" id="Spring" order="12" />
@@ -865,9 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/dp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/dp.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/dfs/Solution124.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -903,9 +900,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/hashmap/Solution22.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/hashmap/Solution22.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/hashmap/Solution128.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -994,7 +989,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="190">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1011,11 +1006,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="209">
           <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1035,36 +1044,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="893">
           <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/StringMath/Solution202.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="627">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/heapsort/Solution215.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="171">
+          <caret line="47" selection-start-line="47" selection-end-line="58" selection-end-column="5" />
         </state>
       </provider>
     </entry>
