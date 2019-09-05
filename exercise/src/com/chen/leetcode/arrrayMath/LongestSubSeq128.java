@@ -1,4 +1,4 @@
-package com.chen.leetcode;
+package com.chen.leetcode.arrrayMath;
 
 /**
  * @author ChenYuXi
