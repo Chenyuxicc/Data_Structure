@@ -1,6 +1,5 @@
 package arr1.chen.qiuzhaotest.huawei;
 
-import javafx.scene.transform.Scale;
 
 import java.util.*;
 
