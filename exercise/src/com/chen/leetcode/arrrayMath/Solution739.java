@@ -8,10 +8,11 @@ import java.util.Stack;
  */
 public class Solution739 {
     /**
-     * 找出数组中第一个比其大的数，组成新的数组
+     * leetcode739 找出数组中第一个比其大的数，组成新的数组
+     * https://leetcode-cn.com/problems/daily-temperatures/
      */
     public int[] dailyTemperatures(int[] T) {
-        //使用辅助栈，里面存放还未找到第一个比起大的元素的下标
+        //使用辅助栈，里面存放还未找到第一个比他大的元素的下标
         Stack<Integer> stack = new Stack<>();
         int[] result = new int[T.length];
         for (int i = 0; i < T.length; i++) {
