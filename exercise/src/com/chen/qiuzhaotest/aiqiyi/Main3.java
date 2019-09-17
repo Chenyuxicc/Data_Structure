@@ -22,7 +22,7 @@ public class Main3 {
         }
     }
     private static int correct(){
-
+        return 0;
     }
 
 
