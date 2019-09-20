@@ -25,7 +25,7 @@ public class Solution123 {
      * 更为常见的一种解法，考虑使用i进行划分，i前面的求买入与卖出的最大值，i后面的数组求买入和卖出的最大值
      * 再求出每一种i划分的情况下，收益的最大值
      */
-    public int maxProfit(int[] prices) {
+    public static int maxProfit(int[] prices) {
         int length = prices.length;
         if(length == 0 || length == 1){
             return 0;
@@ -63,6 +63,6 @@ public class Solution123 {
 
     public static void main(String[] args) {
         int[] prices = {10,22,5,75,65,80};
-        System.out.println(maxProfit2(prices));
+        System.out.println(maxProfit(prices));
     }
 }
