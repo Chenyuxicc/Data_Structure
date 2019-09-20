@@ -25,33 +25,38 @@ public class Solution123 {
      * 更为常见的一种解法，考虑使用i进行划分，i前面的求买入与卖出的最大值，i后面的数组求买入和卖出的最大值
      * 再求出每一种i划分的情况下，收益的最大值
      */
-    public static int maxProfit2(int[] prices){
+    public int maxProfit(int[] prices) {
         int length = prices.length;
+        if(length == 0 || length == 1){
+            return 0;
+        }
+        //用来保存prices[i]之前的最小的price
+        int minLeft = prices[0];
+        //用来保存从第0天到第i天 买卖一次收益最大值
         int[] leftProfit = new int[length];
+
+        //记录每一次从0天到第i天 买卖一次的收益最大值
+        for(int i = 1 ; i < length ; i ++){
+            //两种情况：不操作，结果为上一次结果；将股票卖出最好的情况，使用当前的股票价格减去之前的最小值
+            //取两者情况中的最大值
+            //出口条件：leftProfit[0] = 0 不进行买卖情况下，收益为0
+            leftProfit[i] = Math.max(leftProfit[i - 1] , prices[i] - minLeft);
+            minLeft = Math.min(prices[i] , minLeft);
+        }
+        //表示已遍历的元素中的最大值
+        int maxRight = prices[length - 1];
+
+        //用来保存从第i天到最后一天 买卖一次的最大收益
         int[] rightProfit = new int[length];
 
-        //左边数组的最小值，初值为prices[0]
-        int leftMin = prices[0];
-        //右边数组的最大值,初值为prices[length - 1]
-        int rightMax = prices[length - 1];
+        for(int i = length - 2 ; i >= 0 ; i --){
+            rightProfit[i] = Math.max(rightProfit[i + 1] , maxRight - prices[i]);
+            maxRight = Math.max(prices[i] , maxRight);
+        }
 
         int sum = 0;
-        //遍历左边的数组
-        for (int i = 1; i < length; i++) {
-            leftMin = Math.min(prices[i],leftMin);
-            //两种情况，第一种i天卖出，第二种不卖出，还是为第i-1天的情况
-            //leftProfit[i]表示第i天的最大收入
-            leftProfit[i] = Math.max(prices[i] - leftMin , leftProfit[i]);
-        }
-
-        for (int i = length - 2; i >= 0 ; i--) {
-            rightMax = Math.max(prices[i],rightMax);
-            //两种情况，第i天买入，此时需要花费-prices[i] 第i天不买入，那就是第i-1天买入的最佳情况
-            rightProfit[i] = Math.max(rightMax - prices[i] , rightProfit[i + 1]);
-        }
-
-        for (int i = 0; i < length; i++) {
-            sum = Math.max(sum,leftProfit[i]+ rightProfit[i]);
+        for(int i = 0 ; i < length ; i++){
+            sum = Math.max(sum , leftProfit[i] + rightProfit[i]);
         }
         return sum;
     }
