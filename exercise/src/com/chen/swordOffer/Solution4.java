@@ -3,7 +3,10 @@ package com.chen.swordOffer;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Stack;
-
+/**
+ * 从尾到头打印链表
+ *
+ */
 class ListNode {
     int val;
     ListNode next = null;
