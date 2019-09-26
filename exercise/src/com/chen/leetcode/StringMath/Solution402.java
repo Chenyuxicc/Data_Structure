@@ -7,7 +7,9 @@ import java.util.Stack;
  * @since 19-9-10:下午4:36
  */
 public class Solution402 {
-
+    /**
+     * leetcode402 移掉k个数之后，使得剩下的数最小
+     */
     public String removeKdigits(String num, int k) {
         //使用一个栈，保存递增的序列
         Stack<Integer> stack = new Stack<>();

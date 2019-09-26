@@ -74,4 +74,32 @@ public class Solution2 {
         }
         return result1;
     }
+    public ListNode addTwoNumbers1(ListNode l1, ListNode l2){
+        ListNode head = new ListNode(0);
+        ListNode p = l1,q = l2,cur = head;
+        //进位
+        int carry = 0;
+        //为空的时候val为0
+        while (p != null || q != null){
+            int x = p == null ? 0 : p.val;
+            int y = q == null ? 0 : q.val;
+            int sum = carry + x + y;
+            //算进位
+            carry = sum / 10;
+            cur.next = new ListNode(sum % 10);
+            cur = cur.next;
+            //p和q判断是否为空用的是或,因此需要判断
+            if(p != null){
+                p = p.next;
+            }
+            if(q != null){
+                q = q.next;
+            }
+        }
+        //遍历完之后carry有可能有值
+        if(carry != 0){
+            cur.next = new ListNode(carry);
+        }
+        return head.next;
+    }
 }
