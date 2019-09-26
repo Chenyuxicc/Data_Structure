@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dc84c80-259a-4872-ab98-2dd58c563c61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/leetcode/dfs/AllSubStringPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/tree/Solution101.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/tree/Solution101.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/swordOffer/Solution4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chen/swordOffer/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/swordOffer/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chen/swordOffer/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/swordOffer/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/LongestSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/LongestSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/LongestSubSeq128.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/LongestSubSeq128.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/Solution15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/Solution15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/leetcode/arrrayMath/Solution9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/baidu/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/qiuzhaotest/baidu/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise/com/chen/test/mulThreads/OrderThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise/com/chen/test/mulThreads/OrderThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/test/mulThreads/OrderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/test/mulThreads/OrderThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,70 +31,100 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="220">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="396">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution4.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+              <folding>
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/Java/Windows/JDK/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3620">
+              <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/Java/Windows/JDK/src.zip!/java/lang/ThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-476">
+              <caret line="885" column="9" selection-start-line="885" selection-start-column="9" selection-end-line="885" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -97,6 +138,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>threadStatus</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -107,8 +153,28 @@
         <option value="$PROJECT_DIR$/src/com/chen/swordOffer/Solution4.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main1.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main4.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/dfs/allSubStringPar.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/dfs/AllSubStringPar.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/test/mulThreads/OrderThread.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution15.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/interview/guazi/Solution4.java" />
       </list>
     </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,15 +207,15 @@
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="qiuzhaotest" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
-              <item name="qiuzhaotest" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="guazi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,13 +242,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.baidu.Main1" />
+  <component name="RunManager" selected="Application.Solution3">
+    <configuration name="AllSubStringPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.leetcode.dfs.AllSubStringPar" />
       <module name="exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.baidu.*" />
+          <option name="PATTERN" value="com.chen.leetcode.dfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +256,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.baidu.Main2" />
+    <configuration name="OrderThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.test.mulThreads.OrderThread" />
       <module name="exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chen.qiuzhaotest.baidu.*" />
+          <option name="PATTERN" value="com.chen.test.mulThreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.interview.guazi.Solution1" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.interview.guazi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.interview.guazi.Solution2" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.interview.guazi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.interview.guazi.Solution3" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.interview.guazi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,8 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.OrderThread" />
+        <item itemvalue="Application.AllSubStringPar" />
       </list>
     </recent_temporary>
   </component>
@@ -220,55 +328,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568710044067</updated>
-      <workItem from="1568710053987" duration="7261000" />
+      <workItem from="1568710053987" duration="8177000" />
+      <workItem from="1568769133983" duration="1326000" />
+      <workItem from="1568980955830" duration="6741000" />
+      <workItem from="1569313788154" duration="5234000" />
+      <workItem from="1569374910221" duration="596000" />
+      <workItem from="1569482455874" duration="12256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7261000" />
+    <option name="totallyTimeSpent" value="34330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.18032786" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07377049" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.08196721" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.09508197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="462">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
@@ -280,10 +396,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/heapSort/Solution215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -294,27 +463,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/tecent/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="264">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/dfs/AllSubStringPar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="1210">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/baidu/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chen/test/mulThreads/OrderThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="264">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arraydoublepointers/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/doubleArrayReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/TwoNumSum01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/LongestSubSeq128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/leetcode/arrrayMath/Solution15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/Windows/JDK/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="885" column="9" selection-start-line="885" selection-start-column="9" selection-end-line="885" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/Windows/JDK/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3620">
+          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>

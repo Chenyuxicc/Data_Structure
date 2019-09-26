@@ -37,22 +37,25 @@ public class OrderThread {
         myThread thread2 = new myThread("2");
         myThread thread3 = new myThread("3");
         //execute没有返回结果，但是submit有返回结果
-        service.execute(task1);
-        service.submit(task1);
-        service.submit(task2);
-        service.submit(task3);
-
-        try {
-            thread1.start();
-            thread1.join();
-            thread2.start();
-            thread2.join();
-            thread3.start();
-            thread3.join();
-        }catch (Exception e){
-            e.printStackTrace();
+        //service.execute(task1);
+        while (true){
+            service.submit(task1);
+            service.submit(task2);
+            service.submit(task3);
         }
-        return;
+
+
+//        try {
+//            thread1.start();
+//            thread1.join();
+//            thread2.start();
+//            thread2.join();
+//            thread3.start();
+//            thread3.join();
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
+//        return;
 
     }
 }

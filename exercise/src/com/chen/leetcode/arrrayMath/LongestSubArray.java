@@ -8,6 +8,9 @@ import java.util.Collections;
  * @since 19-9-2:下午5:15
  */
 public class LongestSubArray {
+    /**
+     * 最长递增子序列
+     */
     public int findLengthOfLCIS(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
         for(int num : nums){

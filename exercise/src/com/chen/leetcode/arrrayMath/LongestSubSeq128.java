@@ -15,6 +15,9 @@ import java.util.HashSet;
  */
 public class LongestSubSeq128 {
     //使用HashSet
+    /**
+     * 最长连续序列
+     */
     public int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         for (int num : nums) {

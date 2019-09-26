@@ -10,6 +10,9 @@ import java.util.List;
  * @since 2019/8/30 on 15:52
  **/
 public class Solution15 {
+    /**
+     * 递增数组中求和为0的三个数
+     */
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> arrayLists = new ArrayList<>();

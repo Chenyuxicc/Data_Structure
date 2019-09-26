@@ -5,6 +5,9 @@ package com.chen.leetcode.arrrayMath;
  * @since 19-9-2:下午5:12
  */
 public class Solution9 {
+    /**
+     * 数字是否为回文数字
+     */
     public static boolean isPalindrome(int x) {
         String temp = x+"";
         int n = temp.length();
