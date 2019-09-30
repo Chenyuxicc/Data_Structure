@@ -9,18 +9,20 @@ public class Solution3 {
     static final Object object = new Object();
     public static void main(String[] args) throws InterruptedException{
         Thread thread1 = new Thread(() -> {
-           while (true){
-               synchronized (object){
-                   System.out.println("12345");
-                   object.notify();
+               while (true){
+                   synchronized (object){
+                       System.out.println("12345");
+                       object.notify();
 
-                   try {
-                       object.wait();
-                   }catch (Exception e){
-                       e.printStackTrace();
+                       try {
+                           object.wait();
+                       }catch (Exception e){
+                           e.printStackTrace();
+                       }
                    }
                }
-           }
+
+
         });
         Thread thread2 = new Thread(() -> {
             while (true){

@@ -1,5 +1,6 @@
 package com.chen.interview.guazi;
 
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
@@ -8,8 +9,8 @@ import java.util.concurrent.locks.ReentrantLock;
  * @since 2019/9/26 on 15:46
  **/
 public class Solution1 {
-    private static String mylock = "aaa";
-    static int flag = 0;
+    private static final Object mylock = new Object();
+    private static int flag = 0;
     static class MyThread extends Thread{
         private String name;
         public MyThread(String name){
@@ -17,27 +18,26 @@ public class Solution1 {
         }
         @Override
         public void run(){
-            for (int j = 0; j < 10; j++) {
-                synchronized (mylock){
-                    try {
-                        if(flag == 0){
-                            for (int i = 1; i <= 5 ; i++) {
-                                System.out.println(name+ ":" +i);
-                            }
-                            mylock.wait();
-                        }else {
-                            flag = 0;
-                            for (int i = 6; i <= 10 ; i++) {
-                                System.out.println(name+ ":" +i);
-                            }
-                            mylock.notify();
-
+            synchronized (mylock){
+                try {
+                    if(flag == 0){
+                        for (int i = 1; i <= 5 ; i++) {
+                            System.out.println(name+ ":" +i);
                         }
-                    }catch (Exception e){
-                        e.printStackTrace();
+                        flag = 1;
+                        mylock.wait();
+                    }else {
+                        for (int i = 6; i <= 10 ; i++) {
+                            System.out.println(name+ ":" +i);
+                        }
+                        mylock.notify();
+
                     }
+                }catch (Exception e){
+                    e.printStackTrace();
                 }
             }
+
         }
     }
 
@@ -57,8 +57,5 @@ public class Solution1 {
         }catch (Exception e){
             e.printStackTrace();
         }
-
-
-
     }
 }
