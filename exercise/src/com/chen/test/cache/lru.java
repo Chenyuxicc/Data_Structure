@@ -1,4 +1,4 @@
-package com.chen.test.mulThreads;
+package com.chen.test.cache;
 
 import java.util.Hashtable;
 
