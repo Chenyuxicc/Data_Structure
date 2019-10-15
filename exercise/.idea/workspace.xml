@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b2056ef7-d89f-47ba-ac33-995a4bce50ee" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main2.java" afterDir="false" />
@@ -8,6 +9,12 @@
       <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/xiecheng2/Main2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/chen/qiuzhaotest/xiecheng2/Main3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java" afterDir="false" />
+=======
+    <list default="true" id="3a817136-2be1-4c58-abc9-0ffff961616f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/test/cache/LruTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chen/test/mulThreads/lru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chen/test/cache/lru.java" afterDir="false" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +29,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
               <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/chen/test/cache/lru.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/xiecheng/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -53,11 +68,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-147">
               <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/chen/test/cache/LruTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/xiecheng2/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -113,6 +135,15 @@
               <folding>
                 <element signature="e#5748#5749#0" expanded="true" />
                 <element signature="e#5784#5785#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
               </folding>
             </state>
           </provider>
@@ -133,6 +164,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main1.java" />
         <option value="$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main2.java" />
@@ -148,13 +180,32 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+=======
+        <option value="$PROJECT_DIR$/src/com/chen/test/cache/LruTest.java" />
+        <option value="$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1788" />
+    <option name="y" value="75" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +229,7 @@
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="qiuzhaotest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,19 +245,29 @@
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chen" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
               <item name="swordOffer2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,6 +281,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Main1 (1)">
     <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chen.qiuzhaotest.xiecheng2.Main1" />
@@ -267,11 +330,14 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b2056ef7-d89f-47ba-ac33-995a4bce50ee" name="Default Changelist" comment="" />
       <created>1570704026098</created>
       <option name="number" value="Default" />
@@ -280,10 +346,20 @@
       <workItem from="1570704053781" duration="6389000" />
       <workItem from="1570791802959" duration="593000" />
       <workItem from="1571020231841" duration="5840000" />
+=======
+      <changelist id="3a817136-2be1-4c58-abc9-0ffff961616f" name="Default Changelist" comment="" />
+      <created>1570521564173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570521564173</updated>
+      <workItem from="1570521575581" duration="2924000" />
+      <workItem from="1570587825283" duration="3021000" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="18133000" />
   </component>
   <component name="ToolWindowManager">
@@ -291,6 +367,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+=======
+    <option name="totallyTimeSpent" value="5945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1987" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +384,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.119672135" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,9 +396,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.29836065" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.12540716" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,6 +420,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chen/interview/guazi/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -353,11 +449,25 @@
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#453#454#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/chen/test/cache/lru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chen/test/cache/LruTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chen/swordOffer2/S1_SingleTon.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2574">
           <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
         </state>
@@ -397,10 +507,18 @@
           <folding>
             <element signature="e#5748#5749#0" expanded="true" />
             <element signature="e#5784#5785#0" expanded="true" />
+=======
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chen/qiuzhaotest/mihayou/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -450,5 +568,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 9fcd70bdbb65a4bb60a63e84124a0afd676a41e4
   </component>
 </project>
