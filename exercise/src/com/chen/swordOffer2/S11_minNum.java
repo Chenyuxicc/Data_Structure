@@ -6,6 +6,10 @@ package com.chen.swordOffer2;
  * @since 2019/10/15 on 11:34
  **/
 public class S11_minNum {
+    /**
+     * 两种特例：1.没有进行旋转
+     * 2.{1,0,1,1,1}此时三个指针指向的值相同，没办法通过其大小判断指针应该如何移动，顺序查找
+     */
     public int get(int[] array){
         int before = 0;
         int after = array.length - 1;
