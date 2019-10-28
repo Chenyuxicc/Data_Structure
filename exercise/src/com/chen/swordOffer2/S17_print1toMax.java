@@ -25,7 +25,7 @@ public class S17_print1toMax {
         //进位标志位
         int nTakeOver = 0;
         int nLength = number.length;
-        for (int i = nLength ; i >= 0 ; i--) {
+        for (int i = nLength - 1; i >= 0 ; i--) {
             int nSum = number[i] - '0' + nTakeOver;
             if(i == nLength - 1){
                 nSum++;
