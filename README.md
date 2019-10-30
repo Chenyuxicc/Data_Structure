@@ -11,6 +11,8 @@ I create this repository to record the exercise of DataStructure
 |2|leetcode\.arrayMath\.S220_duplicate3|题名：数组中重复的数<br>描述：判断一个数组中是否存在下标i和j相差小于等t而且值nums[i]和nums[j]相差小于等于k的这两个数<br>思路：使用TreeSet数据结构获取最接近的两个数|数组|20191028||
 |3|leetcode\.arrayMath\.S15_threeNumSum|题名：三数之和<br>描述：数组中找出所有三个和为给定target的数<br>思路：使用一个指针去遍历数组，再使用两个指针去移动，找到和为target的数，注意去重|数组|20191030|复习|
 |4|leetcode\.arrayMath\.S18_fourNumSum|**题名**：四数之和<br>**描述**：同上<br>**思路**：在三数之和的外面再加上一层循环，去重|数组|20191030||
+|5|leetcode\.linkedlist\.S19_deleteKthNode|**题名**：删除链表倒数第k个节点<br>**描述**：<br>**思路**：双指针|链表|20191030||
+|6|leetcode\.stack\.S20_validBrackets|**题名**：有效的括号<br>**描述**：<br>**思路**：使用栈|栈|20191030||
 
   
 </details>
