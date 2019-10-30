@@ -1,8 +1,5 @@
-package com.chen.leetcode.hashmap;
+package com.chen.leetcode.arrrayMath;
 
-import sun.reflect.generics.tree.Tree;
-
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.TreeSet;
 
