@@ -13,6 +13,7 @@ I create this repository to record the exercise of DataStructure
 |4|leetcode\.arrayMath\.S18_fourNumSum|**题名**：四数之和<br>**描述**：同上<br>**思路**：在三数之和的外面再加上一层循环，去重|数组|20191030||
 |5|leetcode\.linkedlist\.S19_deleteKthNode|**题名**：删除链表倒数第k个节点<br>**描述**：<br>**思路**：双指针|链表|20191030||
 |6|leetcode\.stack\.S20_validBrackets|**题名**：有效的括号<br>**描述**：<br>**思路**：使用栈|栈|20191030||
+|7|leetcode\.dfs\.S22_generateBrackets|**题名**：生成有效的括号<br>**描述**：<br>**思路**：使用深度优先遍历，但是在判断是否要加右括号时，条件为此时右括号的数量小于左括号的数量|dfs|20191030||
 
   
 </details>
