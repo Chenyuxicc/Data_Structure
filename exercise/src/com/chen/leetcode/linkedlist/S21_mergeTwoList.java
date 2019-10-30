@@ -4,7 +4,7 @@ package com.chen.leetcode.linkedlist;
  * @author chenyuxi
  * @since 19-9-2:下午5:08
  */
-public class Solution22 {
+public class S21_mergeTwoList {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(-1);
         ListNode p = head;
