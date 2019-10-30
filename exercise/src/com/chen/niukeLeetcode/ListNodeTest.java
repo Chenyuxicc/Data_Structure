@@ -26,13 +26,13 @@ public class ListNodeTest {
         h5.next = h6;
         h6.next = h7;
         h7.next = h3;
-//        com.chen.swordOffer.Solution8 solution8 = new com.chen.swordOffer.Solution8();
+//        com.chen.swordOffer.S8_jumpFloor solution8 = new com.chen.swordOffer.S8_jumpFloor();
 //        solution8.reorderList(head);
 //        while (head != null){
 //            System.out.println("val:"+head.val);
 //            head = head.next;
 //        }
-//        com.chen.swordOffer.Solution9 solution9 = new com.chen.swordOffer.Solution9();
+//        com.chen.swordOffer.S9_jumpFloor2 solution9 = new com.chen.swordOffer.S9_jumpFloor2();
 //        solution9.detectCycle(head);
 
         String s = "aduchst";
