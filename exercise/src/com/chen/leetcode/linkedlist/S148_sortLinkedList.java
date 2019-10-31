@@ -9,7 +9,7 @@ class ListNode {
     ListNode next;
     ListNode(int x) { val = x; }
 }
-public class Solution148 {
+public class S148_sortLinkedList {
 
     /**
      * 1.递归的是quickSort，而不是partition
@@ -70,7 +70,7 @@ public class Solution148 {
         h4.next = h5;
         h5.next = h6;
         h6.next = h7;
-        Solution148 s = new Solution148();
+        S148_sortLinkedList s = new S148_sortLinkedList();
         ListNode h = s.sortList(head);
         while (h != null){
             System.out.println(h.val);
