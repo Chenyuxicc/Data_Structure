@@ -34,14 +34,17 @@ public class S48_rotateMatrix {
          while (i < n/2){
              for (int j = i; j < n-1-i; j++) {
                  int temp1 = matrix[i][j];
-                 int temp2 = matrix[j][n- 1 - i];
-                 int temp3 = matrix[n - 1 -i][n - 1 - j];
-                 int temp4 = matrix[n-1-j][i];
-
-                 matrix[j][n-1-i] = matrix[i][j];
-                 matrix[n - 1 -i][n - 1 - j] = temp2;
-                 matrix[n-1-j][i] = temp3;
-                 matrix[i][j] = temp4;
+//                 int temp2 = matrix[j][n- 1 - i];
+//                 int temp3 = matrix[n - 1 -i][n - 1 - j];
+//                 int temp4 = matrix[n-1-j][i];
+                 matrix[i][j] = matrix[n-1-j][i];
+                 matrix[n-1-j][i] = matrix[n - 1 -i][n - 1 - j];
+                 matrix[n - 1 -i][n - 1 - j] = matrix[j][n- 1 - i];
+                 matrix[j][n- 1 - i] = temp1;
+//                 matrix[j][n-1-i] = matrix[i][j];
+//                 matrix[n - 1 -i][n - 1 - j] = temp2;
+//                 matrix[n-1-j][i] = temp3;
+//                 matrix[i][j] = temp4;
              }
              i++;
          }
