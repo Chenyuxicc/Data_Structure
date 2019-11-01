@@ -16,6 +16,7 @@ I create this repository to record the exercise of DataStructure
 |7|leetcode\.dfs\.S22_generateBrackets|**题名**：生成有效的括号<br>**描述**：<br>**思路**：使用深度优先遍历，但是在判断是否要加右括号时，条件为此时右括号的数量小于左括号的数量|dfs|20191030||
 |8|leetcode\.linkedlist\.S23_mergeKLinkedList|**题名**：合并K个有序链表<br>**描述**：<br>**思路**：使用原地归并，不申请额外空间，使用interval变量来控制需要归并的两个链表|归并 链表|20191031| *** |
 |9|leetcode\.matrix\.S48_rotate|**题名**：原地旋转矩阵<br>**描述**：不使用额外空间复杂度，旋转矩阵<br>**思路**：找规律旋转|矩阵|20191031| ** |
+|10|leetcode\.linkedlist\.S24_swapPairs|**题名**：两两交换链表中的节点<br>**描述**：<br>**思路**：使用一个指针遍历，两个指针存放需要交换的节点，就地交换|链表|20191031|* |
 
   
 </details>
