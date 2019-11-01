@@ -17,6 +17,9 @@ I create this repository to record the exercise of DataStructure
 |8|leetcode\.linkedlist\.S23_mergeKLinkedList|**题名**：合并K个有序链表<br>**描述**：<br>**思路**：使用原地归并，不申请额外空间，使用interval变量来控制需要归并的两个链表|归并 链表|20191031| *** |
 |9|leetcode\.matrix\.S48_rotate|**题名**：原地旋转矩阵<br>**描述**：不使用额外空间复杂度，旋转矩阵<br>**思路**：找规律旋转|矩阵|20191031| ** |
 |10|leetcode\.linkedlist\.S24_swapPairs|**题名**：两两交换链表中的节点<br>**描述**：<br>**思路**：使用一个指针遍历，两个指针存放需要交换的节点，就地交换|链表|20191031|* |
+|11|leetcode\.linkedlist\.S25_reverseKGroup|**题名**：K个一组反转链表<br>**描述**：<br>**思路**：使用slow、fast两个指针指向需要反转的k个一组的链表的头尾，使用pre1指针来保存当前k个一组链表的前一个节点，将k个一组链表断开进行翻转，在将pre1指向这组链表，并将这组链表尾指针指向下一组，下一组头节点使用temp指针保存,注意不满k个的时候链表的处理|链表|20191101|*** |
+|12|leetcode\.arrayMath\.S26_removeDuplicate|**题名**：删除排序数组中数组的重复项<br>**描述**：<br>**思路**：使用双指针，不同时则放到前面去|数组|20191101|* |
+|13|leetcode\.arrayMath\.S27_removeElement|**题名**：移除元素<br>**描述**：<br>**思路**：同上，细节变化|数组|20191101|* |
 
   
 </details>
