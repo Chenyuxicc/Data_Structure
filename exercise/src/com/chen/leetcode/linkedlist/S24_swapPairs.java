@@ -48,6 +48,24 @@ public class S24_swapPairs {
     /**
      * 使用一个指针来遍历，再使用两个指针分别指向需要交换的节点
      */
+    public static ListNode swapPairs1(ListNode head){
+        ListNode h = new ListNode(-1);
+        ListNode p = h;
+        h.next = head;
+        //如果是奇数个节点 p.next.next为空 此时直接跳出循环，但有p1.next = p2.next保证了连贯且顺序正确
+        //因此也无需对奇数个节点单独处理
+        while (p.next != null && p.next.next != null){
+            ListNode p1 = p.next;
+            ListNode p2 = p.next.next;
+
+            p.next = p2;
+            p = p.next;
+            p1.next = p2.next;
+            p.next = p1;
+            p = p.next;
+        }
+        return h.next;
+    }
     public static void main(String[] args) {
         ListNode h1 = new ListNode(1);
         ListNode h2 = new ListNode(2);
@@ -56,7 +74,7 @@ public class S24_swapPairs {
         h1.next = h2;
         h2.next = h3;
 //        h3.next = h4;
-        ListNode result = swapPairs(h1);
+        ListNode result = swapPairs1(h1);
         while (result != null){
             System.out.println(result.val);
             result = result.next;
