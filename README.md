@@ -21,6 +21,7 @@ I create this repository to record the exercise of DataStructure
 |12|leetcode\.arrayMath\.S26_removeDuplicate|**题名**：删除排序数组中数组的重复项<br>**描述**：<br>**思路**：使用双指针，不同时则放到前面去|数组|20191101|* |
 |13|leetcode\.arrayMath\.S27_removeElement|**题名**：移除元素<br>**描述**：<br>**思路**：同上，细节变化|数组|20191101|* |
 |14|leetcode\.StringMath\.S28_strStr|**题名**：实现strStr<br>**描述**：判断主串中是否存在字串<br>**思路**：遇到主串和字串相同的字符时，则开始移动双方指针，匹配失败，子串从头开始，主串减去字串移动的位置，再开始<br>KMP|字符串|20191104|KMP|
+|15|leetcode\.math\.S31_nextPermutation|**题名**：下一个排列<br>**描述**：输出一个整形数组里的数字的下一个排列(指最接近这个数字的比其大的一个数)，如果已经是最大值，则输出最小值<br>**思路**：找到第一个nums[i]>nums[i-1]的元素，将nums[i-1]和后面比其大且和其最接近的数nums[j]交换，再将i以及其之后的元素反转|排列组合|20191110|复习思路|
   
 </details>
 
