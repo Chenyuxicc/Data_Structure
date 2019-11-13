@@ -24,6 +24,7 @@ I create this repository to record the exercise of DataStructure
 |15|leetcode\.math\.S29_divide|**题名**：两数相除<br>**描述**：不使用乘法除法mo实现两个数相除<br>**思路**：使用位移，判断是否等于边界/2，使用负数|数学|20191105|****| 
 |16|leetcode\.StringMath\.S30_findSubString|**题名**：串联所有单词的子串<br>**描述**：判断一个字符串S中有没有由字符串数组words中所有元素组成的子串，有的话给出子串起始位置<br>**思路**：使用两个HashMap，判断两个HashMap是否相等|字符串|20191109|*** |
 |17|leetcode\.math\.S31_nextPermutation|**题名**：下一个排列<br>**描述**：输出一个整形数组里的数字的下一个排列(指最接近这个数字的比其大的一个数)，如果已经是最大值，则输出最小值<br>**思路**：找到第一个nums[i]>nums[i-1]的元素，将nums[i-1]和后面比其大且和其最接近的数nums[j]交换，再将i以及其之后的元素反转|排列组合|20191110|*** |
+|18|leetcode\.StringMath\.S32_longestValidBracket|**题名**：有效括号子串<br>**描述**：给出有效括号子串的长度<br>**思路**：使用一个栈，当前元素为'('时直接下标入栈，当前元素为')',先弹出栈顶元素，如果此时栈为空，则说明这个')'没有与之匹配的'(',将这个'('的下标入栈，否则计算有效子字符长度|stack|20191113|**** |
   
 </details>
 
