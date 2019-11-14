@@ -5,6 +5,7 @@ package com.chen.leetcode.arrrayMath;
  * @version 1.0
  * @since 2019/11/13 on 21:29
  * 题目：搜索旋转排序数组
+ * 思路：先找到旋转点，再两边同时二分，找旋转点的二分和普通二分有细微差别，需要注意
  **/
 public class S33_rotateArray {
     int result = -1;
