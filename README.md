@@ -28,6 +28,7 @@ I create this repository to record the exercise of DataStructure
 |19|leetcode\.arrayMath\.S33_rotateArray|**题名**：在旋转排序数组中搜索制定值target<br>**描述**：<br>**思路**：先找到旋转点，通过二分变形来找，找到旋转点后分情况二分找target,需要注意旋转点和普通二分的细节不一样|二分，数组|20191114|*** |
 |20|leetcode\.arrayMath\.S34_searchRange|**题名**：找到排序数组中指定数字的起始位置<br>**描述**：<br>**思路**：和普通二分区别在于nums[mid] == target时不是直接跳出，而是继续向左逼近或者向右逼近，注意left和right的初值和while条件的对应关系，以及left和right移动的区间边界问题，right初值为nums.length-1时，需要先判断再给数组赋值|二分，数组|20191119|*** |
 |21|leetcode\.arrayMath\.S35_searchInsert|**题名**：搜索插入位置<br>**描述**：<br>**思路**：二分，返回的mid/left即为插入位置|二分，数组|20191119||
+|22|leetcode\.matrix\.S36_validSudoku|**题名**：有效的数独<br>**描述**：判断一个数独是否有效，行列以及3x3小宫格内元素不能重复<br>**思路**：使用一趟遍历同时判断一行，一列，一个小宫格的元素是否重复，判断元素重复使用按位与和按位或，判断一行时同时判断一列，交换i和j的位置，判断一行映射到一个小宫格时，根据对i和j的处理来实现映射关系|矩阵，数学|20191120|*** |
   
 </details>
 
