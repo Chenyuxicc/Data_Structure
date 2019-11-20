@@ -26,6 +26,8 @@ I create this repository to record the exercise of DataStructure
 |17|leetcode\.math\.S31_nextPermutation|**题名**：下一个排列<br>**描述**：输出一个整形数组里的数字的下一个排列(指最接近这个数字的比其大的一个数)，如果已经是最大值，则输出最小值<br>**思路**：找到第一个nums[i]>nums[i-1]的元素，将nums[i-1]和后面比其大且和其最接近的数nums[j]交换，再将i以及其之后的元素反转|排列组合|20191110|*** |
 |18|leetcode\.StringMath\.S32_longestValidBracket|**题名**：有效括号子串<br>**描述**：给出有效括号子串的长度<br>**思路**：使用一个栈，当前元素为'('时直接下标入栈，当前元素为')',先弹出栈顶元素，如果此时栈为空，则说明这个')'没有与之匹配的'(',将这个'('的下标入栈，否则计算有效子字符长度|stack|20191113|**** |
 |19|leetcode\.arrayMath\.S33_rotateArray|**题名**：在旋转排序数组中搜索制定值target<br>**描述**：<br>**思路**：先找到旋转点，通过二分变形来找，找到旋转点后分情况二分找target,需要注意旋转点和普通二分的细节不一样|二分，数组|20191114|*** |
+|20|leetcode\.arrayMath\.S34_searchRange|**题名**：找到排序数组中指定数字的起始位置<br>**描述**：<br>**思路**：和普通二分区别在于nums[mid] == target时不是直接跳出，而是继续向左逼近或者向右逼近，注意left和right的初值和while条件的对应关系，以及left和right移动的区间边界问题，right初值为nums.length-1时，需要先判断再给数组赋值|二分，数组|20191119|*** |
+|21|leetcode\.arrayMath\.S35_searchInsert|**题名**：搜索插入位置<br>**描述**：<br>**思路**：二分，返回的mid/left即为插入位置|二分，数组|20191119||
   
 </details>
 
